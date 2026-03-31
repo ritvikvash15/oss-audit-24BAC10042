@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 2  : FOSS Package & Component Inspector
-# Author    : Aryan Saxena (24BAC10040)
+# Author    : Ritvik Viahsnav (24BAC10042)
 # Course    : Open Source Software — CSE0002
 # Software  : Linux Kernel (chosen for OSS Audit)
 # Purpose   : Checks for kernel-related packages, retrieves 

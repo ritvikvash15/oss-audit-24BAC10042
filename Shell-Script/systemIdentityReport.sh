@@ -11,8 +11,8 @@
 
 # --- VARIABLES ---
 # Project metadata
-STUDENT_NAME="Aryan Saxena"
-REG_NUMBER="24BAC10040"
+STUDENT_NAME="Ritvik Vaishnav"
+REG_NUMBER="24BAC10042"
 AUDIT_TOPIC="Linux Kernel"
 
 # --- COMMAND SUBSTITUTION ---

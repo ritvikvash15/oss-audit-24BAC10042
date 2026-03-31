@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 1  : System Identity Report
-# Author    : Aryan Saxena (24BAC1040)
+# Author    : Ritvik Viahsnav (24BAC10042)
 # Course    : Open Source Software — CSE0002
 # Software  : Linux Kernel (chosen for OSS Audit)
 # Purpose   : Displays a system identity report as a formatted

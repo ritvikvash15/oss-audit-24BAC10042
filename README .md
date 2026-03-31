@@ -97,7 +97,7 @@ chmod +x *.sh
 ```
 NGMC-OSS-Project/
 ├── README.md                          ← Project documentation  
-├── PROJECT_REPORT.docx                  ← Project report  
+├── Project_Report.docx                  ← Project report  
 ├── Shell-Scripts-Screenshots/         ← Output screenshots  
 │   ├── DiskAndPermissionAuditor.jpg  
 │   ├── FossPackageInspector.jpg  

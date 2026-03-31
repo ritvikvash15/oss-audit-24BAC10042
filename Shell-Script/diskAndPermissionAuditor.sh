@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 3  : Disk and Permission Auditor
-# Author    : Aryan Saxena (24BAC10040)
+# Author    : Ritvik Viahsnav (24BAC10042)
 # Course    : Open Source Software — CSE0002
 # Software  : Linux Kernel (chosen for OSS Audit)
 # Purpose   : Audits disk usage, ownership, and permissions of 

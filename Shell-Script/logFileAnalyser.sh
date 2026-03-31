@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 4  : Kernel Log (dmesg) Analyzer
-# Author    : Aryan Saxena (24BAC10040)
+# Author    : Ritvik Viahsnav (24BAC10042)
 # Course    : Open Source Software — CSE0002
 # Software  : Linux Kernel (chosen for OSS Audit)
 # Purpose   : Analyzes the kernel ring buffer for specific 
